@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src= "https://media.giphy.com/media/9CffOPMLx0Hf2/giphy.gif" width="400" />
     <h1 align="center">Hola 😎, Me llamo Byron Bruna Vergara </h1>
-    <h3 align="center">Actualmente me encuentro cursando mi Segundo año de la carrera Ingeniería en Informática, me gusta mucho la tecnología
+    <h3 align="center">Actualmente me encuentro cursando mi Tercer año de la carrera Ingeniería en Informática, me gusta mucho la tecnología
         y enriquecer mis conocimientos con todo lo relacionado al área TI para ser un gran profesional, me apasiona el desarrollo web y 
         me desempeño como Backend Developer 💻.
     </h3>
