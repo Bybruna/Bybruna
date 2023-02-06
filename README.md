@@ -5,11 +5,8 @@
     </h3>
     
 </div>
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/byron-b-818a04225/" target="_blank">
-        <img src="https://img.shields.io/badge/-linkedin-blue" alt="Linkedin Badge"/>
-    </a>
-</div>
+
+
 
 ### 🧐 About me: 
 
