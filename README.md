@@ -1,9 +1,7 @@
 <div id="header" align="center">
-    <img src= "https://media.giphy.com/media/9CffOPMLx0Hf2/giphy.gif" width="400" />
-    <h1 align="center">Hola 😎, Me llamo Byron Bruna Vergara </h1>
-    <h3 align="center">Actualmente me encuentro cursando mi Tercer año de la carrera Ingeniería en Informática, me gusta mucho la tecnología
-        y enriquecer mis conocimientos con todo lo relacionado al área TI para ser un gran profesional, me apasiona el desarrollo web y 
-        me desempeño como Backend Developer 💻.
+    <img src= "https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400" />
+    <h1 align="center">Hi 😎, My name is Byron Bruna Vergara </h1>
+    <h3 align="center">I'm FullStack Developer at a CiberSecurity Company, I love technology and I really like to learn about Frameworks and programming languages 💻.
     </h3>
     
 </div>
@@ -13,20 +11,14 @@
     </a>
 </div>
 
-### 🧐 Acerca de mi: 
+### 🧐 About me: 
 
-- 😃 Tengo 25 años
+- 😃 I have 25 years old
 
-- 🤗 Actualmente aprendiendo **Typescript, Nodejs, Javascript**
-
-- 😊 Conocimientos básicos acerca de: **Python-Django, Java, Html5, Css3, Ionic-Angular**
-
-- 💾 Sistema operativo **Linux y Windows**
-
-- 🎮 Amante de los videojuegos tipo **Shooter** 🔫
+- 💾 OS **Linux and Windows**
 
 <div align="left">
-    <h3>🛠️ Lenguajes & Herramientas:</h3>
+    <h3>🛠️ Languages & Tools:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40"
         height="40"/>&nbsp;
