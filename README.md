@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src= "https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400" />
     <h1 align="center">Hi 😎, My name is Byron Bruna Vergara </h1>
-    <h3 align="center">I'm FullStack Developer at a CiberSecurity Company, I love technology and I really like to learn about Frameworks and programming languages 💻.
+    <h3 align="center">I'm FullStack Developer, I love technology and I really like to learn about Frameworks and programming languages 💻.
     </h3>
     
 </div>
